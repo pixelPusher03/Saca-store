@@ -10,7 +10,7 @@ body {
     font-family: 'Inter', Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #1514D5;
+    background-color: #000000;
     color: #333333;
     height: 100vh;
     position: relative;
@@ -98,7 +98,7 @@ section#home h2 {
 
 /* Products Section */
 section#products {
-    background-color: #FFFFFF;
+    background-color: #000000;
     color: #333333;
     position: relative;
 }
@@ -169,7 +169,7 @@ section#products {
 .product .buy-now {
     display: block;
     margin-top: 10px;
-    background-color: #d8bf;
+    background-color: #000000;
     color: white;
     text-decoration: none;
     padding: 8px 16px;
@@ -178,7 +178,7 @@ section#products {
 }
 
 .product .buy-now:hover {
-    background-color: #4D20C4;
+    background-color: #000000;
     transform: scale(1.1);
 }
 
@@ -191,19 +191,7 @@ section#products {
 
 /* Contact Section */
 section#contact {
-    background: rgba(255, 255, 255, 0.1);
-    color: #333333;
-    padding: 40px 20px;
-    text-align: center;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.2);
-    transition: transform 0.2s, box-shadow 0.2s;
-    position: relative;
-}
-
-/* Contact Section */
-section#contact {
-    background: rgba(255, 255, 255, 0.1);
-    color: #333333;
+    background color: #000000;
     padding: 40px 20px;
     text-align: center;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.2);
@@ -218,7 +206,7 @@ section#contact::before {
     left: 0;
     right: 0;
     bottom: 0;
-    background: linear-gradient(135deg, #d8bfd8, #5923E8);
+    background: linear-gradient(135deg, #000000, #000000);
     background-size: 600% 600%;
     animation: gradientAnimation 3s ease infinite;
     backdrop-filter: blur(10px);
@@ -284,7 +272,7 @@ section#contact::before {
 
 /* Testimonial Section */
 section#testimonials {
-    background-color: #1516A7;
+    background-color: #000000;
     color: #333333;
     padding: 40px 20px;
     text-align: center;
