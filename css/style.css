@@ -15,7 +15,9 @@ body {
     height: 100vh;
     position: relative;
 }
-
+p{
+color: #C312DE;
+}
 header {
     background-color: rgba(107, 91, 149, 0.7);
     color: white;
